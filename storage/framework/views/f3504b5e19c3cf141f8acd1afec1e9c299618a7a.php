@@ -1,0 +1,1 @@
+<p><?php echo app('translator')->getFromJson('mesg.msg1'); ?></p><?php /**PATH /home/dentist/public_html/resources/views/messenger/partials/no-threads.blade.php ENDPATH**/ ?>

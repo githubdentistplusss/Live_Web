@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/dentist/public_html
+group: dentist
+hascgi: 0
+homedir: /home/dentist
+ip: 172.31.65.111
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@dentistpluss.com
+serveralias: mail.dentistpluss.com www.dentistpluss.com
+servername: dentistpluss.com
+ssl: 1
+usecanonicalname: 'Off'
+user: dentist
+userdirprotect: ''

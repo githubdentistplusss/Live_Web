@@ -1,0 +1,28 @@
+
+.text-right {
+	margin-left: 10px;
+    margin-top: 20px;
+}
+.table-responsive {
+	padding:10px;
+}
+.table_title {
+	margin-right:20px;
+	margin-top:-20px;
+}
+.card{
+	/*height:85%;*/
+}
+.table-responsive {
+/*	height:100%;*/
+}
+.submit-section  .submit-btn-bottom {
+	text-align: center;
+}
+.submit-section {
+	text-align: center;
+}
+.alert {
+	margin:15px;
+}
+ 
